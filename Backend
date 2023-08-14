@@ -1,6 +1,0 @@
-This file contains all the backend related files. 
-Backend has been developed using Django web framework. The relational database integrated with the database is Postgresql. 
-All the user data and other entities related to the same will be stored in this database. 
-*** Descision for how to store videos and images is yet to be made. 
-So far only the connection of Django and Postgresql has been successfully accomplished. 
-Currently working on linking Django with Reactjs by making an API of Django using Rest Framework.
