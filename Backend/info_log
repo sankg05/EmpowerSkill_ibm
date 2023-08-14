@@ -6,7 +6,15 @@ Installed the library psycopg2 for the same.
 The postgresql database will contain all the user data and other relational data. 
 Besides me, the other collaborators of this project are the superusers of this django application. 
 
+FOLDER CONTENT DESCRIPTION
+manage.py file is required for running th Django server.
+dp.sqlite3 file is not used for this project because we have changed databases from sqlite to Postgresql.
+
+CURRENT UPDATES
 Currently, I am working on integrating the Django backend with Reactjs frontend by making use of Django rest framework.
 Django Rest Framework will convert the backend server into an API for the frontend to consume.
 Installed djangorestframework and django-cors-headers libraries so far. 
 Will need axios for connecting the frontend and the backend. 
+
+
+
