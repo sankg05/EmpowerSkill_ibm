@@ -1,0 +1,12 @@
+This file contains information about all the contents of this directory. 
+This directory contains all the files related to the backend for EmpowerSkill. 
+I have used Django web framework for the backend and it has been integrated with postgresql relational database management system. 
+The integration of Django and Postgresql has been successfully achieved. 
+Installed the library psycopg2 for the same.
+The postgresql database will contain all the user data and other relational data. 
+Besides me, the other collaborators of this project are the superusers of this django application. 
+
+Currently, I am working on integrating the Django backend with Reactjs frontend by making use of Django rest framework.
+Django Rest Framework will convert the backend server into an API for the frontend to consume.
+Installed djangorestframework and django-cors-headers libraries so far. 
+Will need axios for connecting the frontend and the backend. 
