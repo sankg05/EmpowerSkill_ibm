@@ -17,4 +17,13 @@ Installed djangorestframework and django-cors-headers libraries so far.
 Will need axios for connecting the frontend and the backend. 
 
 
+Django has been connected with the ReactJS frontend. Everytime I launch the server and go to the url localhost:8000, the frontend shows up.
+Installed djangorestframework for the same. 
+The backend currently has 3 apps. 
+A core app that launches the home page of the website. 
+A blog app that will launch the blog page for the website.
+A users app that will contain all the data required for the users' dashboard and profile. Mostly, the users app will be responsible for launching the dashboard and the profile page. 
+Yet, the integration process isn't complete. I still have to integrate the frontend forms with the database. 
+E-R model is being worked upon. I have made the tables for blog posts. 
+The table for user profiles isn't complete yet. Will keep updating it. 
 
