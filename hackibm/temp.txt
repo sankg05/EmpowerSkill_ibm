@@ -1,0 +1,38 @@
+(For react icons-)
+npm install react-icons --save 
+
+(For material UI-)
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+
+
+(For carousel-)
+npm install slick-carousel
+npm install react-slick --save
+npm install react-responsive-carousel --save
+
+
+(For react-router-)
+npm i react-router
+
+
+
+(For react-style-)
+npm i styled-components
+
+
+To run the app - 
+go to frontend folder and write cmd -  npm start 
+
+Dependencies are present in package.json file
+
+
+Landing Page (backend)
+
+To display popular courses - path for reference (Components/LandingPage/LandingJs/courses.jsx )
+To display testimonials - path for reference (Components/LandingPage/LandingJs/testimonials.jsx )
+
+Login/SigUp part is still left to design
+
+Blog part is incomplete
