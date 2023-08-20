@@ -1,0 +1,11 @@
+.bottom-grid {
+    display: grid;
+    grid-template-columns: 400px 400px 1fr;
+    height: 100%;
+    column-gap: 10px;
+    padding-right: 20px;
+}
+
+.table {
+    height: fit-content;
+}

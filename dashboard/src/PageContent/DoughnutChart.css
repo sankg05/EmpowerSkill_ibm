@@ -1,0 +1,11 @@
+.doughnut {
+    border: solid 2px var(--first-color);
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.doughnut-heading {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 5px;
+}
